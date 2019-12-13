@@ -1,7 +1,6 @@
 
 /* 
- * Nim Simple - Mr. M.'s Version 
- * Note: Global variables have been passed as parameters.  This is not best practice, but helpful for tracking.
+ * Nim Trainer by Wyatt LaBerge 
  */
 
 /* Initialize Globals */
